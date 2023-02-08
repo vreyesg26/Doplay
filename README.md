@@ -1,14 +1,8 @@
-# Project Lyrics
+# Doplay
 
-Develop an elegant React.js Music Application. 
+Elegant React.js Music Application.
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
-
-# Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
-
+![project4](https://user-images.githubusercontent.com/60959263/217399438-2277e218-3e89-42ce-b4d1-7aabad03979a.jpg)
 
 ## System Requirements
 
