@@ -2,7 +2,7 @@
 
 Elegant React.js Music Application.
 
-![project4](https://user-images.githubusercontent.com/60959263/217399438-2277e218-3e89-42ce-b4d1-7aabad03979a.jpg)
+![image](https://user-images.githubusercontent.com/60959263/217399744-8b5af3a0-6e85-456d-b249-98d5b5561cfd.png)
 
 ## System Requirements
 
