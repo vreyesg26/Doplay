@@ -1,4 +1,4 @@
-# DOPLAY
+# Doplay
 
 Elegant React.js Music Application.
 
